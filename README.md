@@ -1,7 +1,8 @@
 # Seed.shattering.pod.dehiscence.Fruit.shedding
-
+sesame capsules are prone to dehisce, which causes yield loss, and it is an important factor influencing mechanized harvesting. Establishment of an easy, accurate, reliable and reproducible method for identification sesame capsule dehiscence (CD) resistance, will be helpful to discover germplasm with CD resistance and breed varieties resistant to CD, consequently promote the mechanization process of sesame production. 
 
 # References
+[Study on the Method for Identification Sesame Capsule Dehiscence Resistance and Evaluation of Capsule Dehiscence Resistance of the Core Collection](https://www.chinaagrisci.com/EN/abstract/abstract20708.shtml)
 
 [Convergent Evolution of the Seed Shattering Trait](https://www.mdpi.com/2073-4425/10/1/68/htm)
 

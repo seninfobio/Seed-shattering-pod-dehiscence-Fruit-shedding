@@ -25,6 +25,7 @@ Flower development has been the subject of intensive study for over the past 20 
 [RNAi-mediated down-regulation of SHATTERPROOF gene in transgenic oilseed rape](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4434419/)
 Construction of RNAi cassette
 A 470-bp fragment of the BnSHP1 cDNA (Accession, AY036062) without MADS-box region was amplified by PCR using specific primers; F: 5′-ATACTAGTGGCGCGCCCCGTTAACCCTCCACTG-3′ and R: 5′-GCCTTAATTAAATTTAAATTTGAAGAGGAGGTTGGTC-3′ containing restriction enzyme digestion sites for Asc1, Aws1, Spe1 and Pac1 (underlined), for cloning the sense and antisense fragments in the above sites in pGSA1252 behind the CaMV35S promoter. The RNAi cassette was removed with Pst1 digestion and sub-cloned in the Pst1 site in pCAMBIA3301 to make pCAMRNAi.
+
 ![img](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4434419/bin/13205_2014_226_Fig1_HTML.jpg)
 
 

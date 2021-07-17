@@ -22,5 +22,8 @@ Flower development has been the subject of intensive study for over the past 20 
 [Protocol: Streamline cloning of genes into binary vectors in Agrobacterium via the Gateway® TOPO vector system](https://plantmethods.biomedcentral.com/articles/10.1186/1746-4811-4-4)
 ![img](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1746-4811-4-4/MediaObjects/13007_2007_Article_51_Fig1_HTML.jpg?as=webp)
 
+[RNAi-mediated down-regulation of SHATTERPROOF gene in transgenic oilseed rape](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4434419/)
+![img](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4434419/bin/13205_2014_226_Fig1_HTML.jpg)
+
 
 

@@ -30,4 +30,4 @@ A 470-bp fragment of the BnSHP1 cDNA (Accession, AY036062) without MADS-box regi
 ![img](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4434419/bin/13205_2014_226_Fig1_HTML.jpg)
 
 
-
+[Seed Shattering: A Trait of Evolutionary Importance in Plants](https://www.frontiersin.org/articles/10.3389/fpls.2021.657773/full)
